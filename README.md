@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 
-- 🔭 I’m currently working **Microservices Project**
+- 🔭 I’m currently working on **Microservices Project**
 
 - 🌱 I’m currently learning **Spring Boot Framework, ReactJs and DSA**
 
