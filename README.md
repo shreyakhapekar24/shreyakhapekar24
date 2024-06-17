@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
-- 🤝 I’m looking for help in **finding software development opportunities**
+- 🤝 I’m looking for help in **finding Software Development Opportunities**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shreya-Khapekar-4/](https://www.quora.com/profile/Shreya-Khapekar-4/)
 
